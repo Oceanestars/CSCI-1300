@@ -1,0 +1,11 @@
+hamburger
+hotdog
+bacon
+friedchicken
+fastfood
+hotpocket
+fries
+friedpickle
+friedpickles
+tacos
+taco

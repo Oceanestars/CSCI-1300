@@ -1,0 +1,10 @@
+salmon
+tuna
+tilapia
+egg
+steak
+shake
+pork 
+chicken
+turkey
+beef
